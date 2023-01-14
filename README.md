@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a claculator working with provider for state management.
 
-![https://github.com/maqamylee0/calculator_mini_project_5/blob/master/lib/assets/calc_mini5.png]
+![Calculator app](https://github.com/maqamylee0/calculator_mini_project_5/blob/master/lib/assets/calc_mini5.png)
